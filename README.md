@@ -1,5 +1,7 @@
 # Guía de Uso - Simulador y Procesador de Imágenes Satelitales
 
+(Está en rama Master)
+
 Este repositorio contiene un sistema completo que simula la generación de imágenes satelitales y su procesamiento usando Python y programación concurrente.
 
 Incluye:
